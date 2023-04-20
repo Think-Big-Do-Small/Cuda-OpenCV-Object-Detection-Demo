@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.0.0)
 
-
-set( OPENCV_INSTALL_DIR "C:/Users/fangj/opencv_cuda_tutorial/build/install/" )
-find_package(OpenCV 4.7.0 CONFIG REQUIRED PATHS "${OPENCV_INSTALL_DIR}") 
+find_package(OpenCV REQUIRED)
 MESSAGE(STATUS "Include dirs ${OpenCV_INCLUDE_DIRS}")
 MESSAGE(STATUS "LINK LIBRARIES ${OpenCV_LIBS}")
 
