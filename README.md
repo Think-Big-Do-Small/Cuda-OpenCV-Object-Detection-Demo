@@ -22,8 +22,8 @@ OpenCV Video Object Detection with Cuda Accelerated.
 
 ### About Software Development Experience
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
-visit site: [兔子快跑](www.aizaozhidao.vip/tuzikuaipao) 
+visit site: [兔子快跑](http://www.aizaozhidao.vip/tuzikuaipao) 
 
 - AI早知道(ai related projects for demostration) <br> 
-visit site: [AI早知道](www.aizaozhidao.vip) 
+visit site: [AI早知道](http://www.aizaozhidao.vip) 
 
