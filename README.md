@@ -35,7 +35,6 @@ int main(int argc, char**)
 	auto net = readNet(file_path + "frozen_inference_graph.pb",
 		file_path + "ssd_mobilenet_v2_coco_2018_03_29.pbtxt", "TensorFlow");
 
-
 	// Open up the webcam 
 	VideoCapture cap(0);
 
