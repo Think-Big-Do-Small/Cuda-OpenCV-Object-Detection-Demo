@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\fangj\cmake_tutorial\CudaOpenCVObjectDetectionDemo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fangj\cmake_tutorial\CudaOpenCVObjectDetectionDemo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4E295BDE-93A7-33DD-9C73-51B1F560A86F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

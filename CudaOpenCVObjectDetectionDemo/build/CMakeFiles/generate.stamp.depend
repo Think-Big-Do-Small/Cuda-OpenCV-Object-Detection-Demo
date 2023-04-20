@@ -1,0 +1,40 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CTest.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CTestTargets.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CTestUseLaunchers.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/DartConfiguration.tcl.in
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.26/Templates/CPackConfig.cmake.in
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/CMakeLists.txt
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/3.26.1/CMakeCCompiler.cmake
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/3.26.1/CMakeCXXCompiler.cmake
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/3.26.1/CMakeRCCompiler.cmake
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/3.26.1/CMakeSystem.cmake
+C:/Users/fangj/opencv_cuda_tutorial/build/install/OpenCVConfig-version.cmake
+C:/Users/fangj/opencv_cuda_tutorial/build/install/OpenCVConfig.cmake
+C:/Users/fangj/opencv_cuda_tutorial/build/install/x64/vc16/lib/OpenCVConfig.cmake
+C:/Users/fangj/opencv_cuda_tutorial/build/install/x64/vc16/lib/OpenCVModules-release.cmake
+C:/Users/fangj/opencv_cuda_tutorial/build/install/x64/vc16/lib/OpenCVModules.cmake

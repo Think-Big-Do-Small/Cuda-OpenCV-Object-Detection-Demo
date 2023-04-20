@@ -1,0 +1,9 @@
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/Experimental.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/Nightly.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/Continuous.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/CudaOpenCVObjectDetection.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/PACKAGE.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/fangj/cmake_tutorial/CudaOpenCVObjectDetectionDemo/build/CMakeFiles/ZERO_CHECK.dir
