@@ -7,6 +7,47 @@ OpenCV Video Object Detection with Cuda Accelerated.
 
 <img width=800 height=480 src="https://github.com/Think-Big-Do-Small/CudaOpenCVObjectDetectionDemo/blob/9f1ac74cc5ec119d76ef93df82242b238fa0ef66/screenshot.png"></img>
 
+```bash
+#include <iostream>
+#include <fstream>
+#include <opencv2/opencv.hpp>
+#include <opencv2/dnn.hpp>
+#include <opencv2/dnn/all_layers.hpp>
+
+using namespace std; 
+using namespace cv; 
+using namespace dnn; 
+
+int main(int argc, char**)
+{
+	string file_path = "./cmake_tutorial/cvModels/mobilenet_V2/";
+	vector<string>class_names;
+	ifstream ifs(string(file_path + "object_detection_classes_coco.txt").c_str());
+	string line;
+
+	// Load in all the classes from the file 
+	while (getline(ifs, line)){
+		cout << line << endl;
+		class_names.push_back(line);
+	}
+
+	// Read in the neural network from the files 
+	auto net = readNet(file_path + "frozen_inference_graph.pb",
+		file_path + "ssd_mobilenet_v2_coco_2018_03_29.pbtxt", "TensorFlow");
+
+
+	// Open up the webcam 
+	VideoCapture cap(0);
+
+	// Run on either CPU or GPU 
+	// with CPU : 30FPS 
+	// with GPU : 100 FPS 
+	 net.setPreferableBackend(DNN_BACKEND_CUDA); 
+	 net.setPreferableTarget(DNN_TARGET_CUDA); 
+   
+   //...
+}
+```
 ### Video Demo 
 - [视频演示](https://github.com/Think-Big-Do-Small/CudaOpenCVObjectDetectionDemo/blob/457a2b0a9fad9bbbdfec5ec35f693a8794c1d641/Output.avi)
 
