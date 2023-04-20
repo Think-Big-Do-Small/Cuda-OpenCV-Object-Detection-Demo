@@ -3,6 +3,9 @@ OpenCV Video Object Detection with Cuda Accelerated.
 
 <img width=800 height=480 src="https://github.com/Think-Big-Do-Small/CudaOpenCVObjectDetectionDemo/blob/9f1ac74cc5ec119d76ef93df82242b238fa0ef66/screenshot.png"></img>
 
+### Video Demo 
+<video width=800 height=480 src="" autoplay="no"></video>
+
 ### About Me 
 - Computer Science, Master, Shenzhen University
 - I am a software engineer 
