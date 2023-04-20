@@ -14,7 +14,7 @@ OpenCV Video Object Detection with Cuda Accelerated.
 - I am familar with flask, apache tomcat
 - I am familar with libraries opencv, caffe, keras, tensorflow, openvino
 - I am familar with gpu libraries like cuda, cudnn
-- I am recently doing some image segmentation projects with c++, python and cuda <br> background substraction etc. <br> 
+- I am recently doing some image segmentation projects with c++, python and cuda <br> background matting etc. <br> 
 
 ### About Software Development Experience
 - RabbitRun(smart file packaging with high speed and efficiency)  <br> 
