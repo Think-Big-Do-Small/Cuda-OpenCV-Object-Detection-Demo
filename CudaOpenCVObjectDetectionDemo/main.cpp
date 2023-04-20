@@ -11,7 +11,7 @@ using namespace dnn;
 
 int main(int argc, char**)
 {
-	string file_path = "C:/Users/fangj/cmake_tutorial/cvModels/mobilenet_V2/";
+	string file_path = "./cmake_tutorial/cvModels/mobilenet_V2/";
 	vector<string>class_names;
 	ifstream ifs(string(file_path + "object_detection_classes_coco.txt").c_str());
 	string line;
