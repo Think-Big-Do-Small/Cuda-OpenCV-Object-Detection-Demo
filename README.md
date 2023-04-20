@@ -1,7 +1,7 @@
 # CudaOpenCVObjectDetectionDemo
 OpenCV Video Object Detection with Cuda Accelerated.
-- CPU Detection Speed: about 30 fps 
-- GPU Detection Speed: about 100 fps 
+- CPU Detection Speed: about 30 fps on Intel i9 
+- GPU Detection Speed: about 100 fps on NVIDIA RTX 3060
 
 <img width=800 height=480 src="https://github.com/Think-Big-Do-Small/CudaOpenCVObjectDetectionDemo/blob/9f1ac74cc5ec119d76ef93df82242b238fa0ef66/screenshot.png"></img>
 
